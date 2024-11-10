@@ -1,0 +1,5 @@
+plotly
+pandas
+requests
+shiny>=0.6.0
+shinywidgets>=0.3.0
